@@ -1,0 +1,16 @@
+{
+  "name": "testcafe-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "testcafe chrome test/line-chart.js"
+  },
+  "author": "xmort",
+  "dependencies": {
+    "testcafe": "^0.18.6"
+  }
+}
